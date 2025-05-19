@@ -1,0 +1,35 @@
+{
+  "libros": [
+    {
+      "tipo": "libro",
+      "titulo": "",
+      "codigo": "",
+      "añoPublicacion": 0,
+      "disponible": true,
+      "autor": "",
+      "numPaginas": 0
+    }
+  ],
+  "revistas": [
+    {
+      "tipo": "revista",
+      "titulo": "",
+      "codigo": "",
+      "añoPublicacion": 0,
+      "disponible": true,
+      "volumen": 0,
+      "numEdicion": 0
+    }
+  ],
+  "trabajosGrado": [
+    {
+      "tipo": "trabajoGrado",
+      "titulo": "",
+      "codigo": "",
+      "añoPublicacion": 0,
+      "disponible": true,
+      "estudiante": "",
+      "programa": ""
+    }
+  ]
+}
